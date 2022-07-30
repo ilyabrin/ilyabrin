@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Golang Software Engineer** with passion about **Product Management**  
+I am a **Golang Software Engineer** with passion about **Product/Project Management**  
 
 Think about me as **Product Developer** who make some real stuff through the code, coffee && mental power ⚡ 🧠
 

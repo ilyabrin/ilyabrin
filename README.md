@@ -7,7 +7,7 @@ Think about me as **Product Developer** who make some real stuff through the cod
 
 Joined Github 11 years ago.
 
-Since then I pushed **1719** commits, opened 515 issues, submitted 145 pull requests, received 21 stars across 79 personal projects and contributed to 162 public repositories.
+Since then I pushed **1721** commits, opened 515 issues, submitted 145 pull requests, received 21 stars across 79 personal projects and contributed to 162 public repositories.
 
 Learning by doing is my working principle.  
 Always up for a discussions on:  
@@ -26,7 +26,3 @@ Always up for a discussions on:
 
 [![linkedin ilyabrin][1.1]][1]
 [![github ilyabrin][2.1]][2]
-
-Most used languages across my projects:
-
- PHP  CSS  JavaScript  HTML  Go  GDScript  TypeScript  Other 

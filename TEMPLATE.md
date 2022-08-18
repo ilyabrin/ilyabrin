@@ -5,9 +5,9 @@ I am a **Golang Software Engineer** with passion about **Product/Project Managem
 
 Think about me as **Product Developer** who make some real stuff through the code, coffee && mental power ⚡ 🧠
 
-Joined Github {{ ACCOUNT_AGE }} years ago.
+Joined Github **{{ ACCOUNT_AGE }} years ago**.
 
-Since then I pushed **{{ COMMITS }}** commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+Since then I pushed **{{ COMMITS }} commits**, opened **{{ ISSUES }} issues**, submitted **{{ PULL_REQUESTS }} PR's**, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 Learning by doing is my working principle.  
 Always up for a discussions on:  

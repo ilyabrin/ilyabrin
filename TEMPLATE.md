@@ -7,7 +7,7 @@ Think about me as **Product Developer** who make some real stuff through the cod
 
 Joined Github {{ ACCOUNT_AGE }} years ago.
 
-Since then I pushed {{ COMMITS }} commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
+Since then I pushed **{{ COMMITS }}** commits, opened {{ ISSUES }} issues, submitted {{ PULL_REQUESTS }} pull requests, received {{ STARS }} stars across {{ REPOSITORIES }} personal projects and contributed to {{ REPOSITORIES_CONTRIBUTED_TO }} public repositories.
 
 Learning by doing is my working principle.  
 Always up for a discussions on:  

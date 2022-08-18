@@ -26,7 +26,3 @@ Always up for a discussions on:
 
 [![linkedin ilyabrin][1.1]][1]
 [![github ilyabrin][2.1]][2]
-
-Most used languages across my projects:
-
-{{ LANGUAGE_TEMPLATE_START }} {{LANGUAGE_NAME}} {{ LANGUAGE_TEMPLATE_END }}

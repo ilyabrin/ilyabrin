@@ -5,9 +5,9 @@ I am a **Golang Software Engineer** with passion about **Product/Project Managem
 
 Think about me as **Product Developer** who make some real stuff through the code, coffee && mental power ⚡ 🧠
 
-Joined Github 11 years ago.
+Joined Github **11 years ago**.
 
-Since then I pushed **1721** commits, opened 515 issues, submitted 145 pull requests, received 21 stars across 79 personal projects and contributed to 162 public repositories.
+Since then I pushed **1723 commits**, opened **515 issues**, submitted **145 PR's**, received **21** stars across **79** personal projects and contributed to **162** public repositories.
 
 Learning by doing is my working principle.  
 Always up for a discussions on:  

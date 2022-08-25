@@ -7,7 +7,7 @@ Think about me as **Product Developer** who make some real stuff through the cod
 
 Joined Github **11 years ago**.
 
-Since then I pushed **1752** commits, opened **513** issues, submitted **149** PR's, received **20** stars across **78** personal projects and contributed to **165** public repositories.
+Since then I pushed **1753** commits, opened **513** issues, submitted **149** PR's, received **17** stars across **78** personal projects and contributed to **165** public repositories.
 
 Learning by doing is my working principle.  
 Always up for a discussions on:  

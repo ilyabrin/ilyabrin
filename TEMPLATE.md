@@ -1,22 +1,9 @@
 
-### Hi there, Ilya Brin here 👋
+### Hi, Ilya Brin here 👋
 
-I am a **Golang Software Engineer** with passion about **Product/Project Management**  
+I am a **Senior Software Engineer** with passion about **Golang**  
 
-Think about me as **Product Developer** who make some real stuff through the code, coffee && mental power ⚡ 🧠
-
-Joined Github **{{ ACCOUNT_AGE }} years ago**.
-
-Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** PR's, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
-
-Learning by doing is my working principle.  
-Always up for a discussions on:  
-
-- 💠 Product management
-- 👩‍🚀 Software development
-- 🌱 Business && entrepreneurship
-- 🕹 Games && gamedev
-- ⚡  Any modern technologies
+Joined GitHub **{{ ACCOUNT_AGE }} years ago** and since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** PR's, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 [1.1]: https://user-images.githubusercontent.com/464157/88304618-307f2b00-cd11-11ea-8f5a-0a154f7b523d.png (Feel free to add me to your network)
 [2.1]: https://user-images.githubusercontent.com/464157/88305468-39bcc780-cd12-11ea-826e-f67163b6cf1f.png (You are here 😸)

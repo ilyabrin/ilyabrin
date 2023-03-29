@@ -1,7 +1,7 @@
 
 ### Hi, Ilya Brin here 👋
 
-I am a **Senior Software Engineer** with passion about **Golang**  
+I am a **Software Engineer** with passion about **Golang**  
 
 Joined GitHub **12 years ago** and since then I pushed **1850** commits, opened **250** issues, submitted **125** PR's and contributed to **180** public repositories.
 

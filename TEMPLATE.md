@@ -1,7 +1,7 @@
 
 ### Hi, Ilya Brin here 👋
 
-I am a **Senior Software Engineer** with passion about **Golang**  
+I am a **Software Engineer** with passion about **Golang**  
 
 Joined GitHub **{{ ACCOUNT_AGE }} years ago** and since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** PR's and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 

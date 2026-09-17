@@ -16,4 +16,4 @@ Mostly Go and Rust. I write occasionally at [ilyabrin.github.io](https://ilyabri
 
 Open to conversations with teams whose vision of the product I share.
 
-<sub>15 years on GitHub · 8080 commits · 429 pull requests · 283 issues</sub>
+<sub>15 years on GitHub · 8081 commits · 429 pull requests · 283 issues</sub>

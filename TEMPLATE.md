@@ -4,8 +4,6 @@ I'm a product-minded engineer. I build tools I use in my own work and the tools 
 
 Before going independent, I spent years in product companies as an engineer and team lead. What drives me is understanding what a product does, who uses it, and how.
 
-These days I work as a lead over AI: I own the spec, the design decisions and the quality bar; AI does most of the typing. [Aura](https://github.com/aura-config/aura-lang) is built this way: see its [SPEC](https://github.com/aura-config/aura-lang/blob/main/SPEC.md) and [AGENTS.md](https://github.com/aura-config/aura-lang/blob/main/AGENTS.md).
-
 **What I'm working on**
 
 - [**Aura**](https://github.com/aura-config/aura-lang): a configuration language with schemas, assertions and capability-gated I/O that compiles to JSON, YAML and TOML
